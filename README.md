@@ -25,7 +25,7 @@ Live Demo: https://todoappdebanik.netlify.app/
 
 Implements secure user login with HTML forms and JavaScript validation.
 Styled using CSS for a seamless user experience.
-Live Demo: https://authoriser.netlify.app/
+Live Demo: https://authpage-handler.netlify.app/
 
 **About**
 These projects demonstrate proficiency in frontend web development, responsive design, and secure application practices.
