@@ -7,13 +7,13 @@ Welcome to my repository showcasing frontend projects developed during my intern
 
 Built using HTML, CSS, and JavaScript.
 Features advanced mathematical functions and a responsive design.
-Live Demo: https://myscientificcalculator.netlify.app/
+Live Demo: https://scificalculator.netlify.app
 
 **Tribute Page**
 
-Dedicated to Cristiano Ronaldo, titled "The Living Legend."
+Dedicated to Magnus carlsen, titled "The Chess Legend."
 Highlights his career achievements using HTML, CSS, JavaScript.
-Live Demo: https://cristianoronaldotributepage.netlify.app/
+Live Demo: https://magnuscarlsentribute.netlify.app/
 
 **To-Do List Application**
 
@@ -29,3 +29,5 @@ Live Demo: https://authoriser.netlify.app/
 
 **About**
 These projects demonstrate proficiency in frontend web development, responsive design, and secure application practices.
+
+made by Sehajdeep Singh
