@@ -19,7 +19,7 @@ Live Demo: https://magnuscarlsentribute.netlify.app/
 
 Created with HTML and styled using CSS.
 Includes dynamic task management features with JavaScript.
-Live Demo: https://todoappdebanik.netlify.app/
+Live Demo: https://todoapp-handler.netlify.app/
 
 **Login Authentication System**
 
